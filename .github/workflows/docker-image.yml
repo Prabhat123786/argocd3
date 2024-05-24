@@ -27,7 +27,7 @@ jobs:
         with:
           context: DockerFileFolder/   or .
           push: true
-          tags: prabhat295/github:latest3
+          tags: prabhat295/github-latest3
 
 
 
